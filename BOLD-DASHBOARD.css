@@ -1,0 +1,132 @@
+.u-section-1 {
+  background-image: url("images/gmyldjq35fy51.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 751px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  text-shadow: 1px 1px 17px rgba(0,131,255,0.8);
+  box-shadow: 1px 1px 8px 0 rgba(0,0,0,0);
+  animation-duration: 1000ms;
+  font-size: 3rem;
+  margin: 305px auto 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  box-shadow: 1px 1px 14px 0 rgba(0,131,255,0.6);
+  text-shadow: 1px 1px 8px rgba(0,0,0,0);
+  animation-duration: 1000ms;
+  margin: 0 auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 619px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 474px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 211px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 11px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 514px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+    margin-top: 205px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 13px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 312px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.5rem;
+    margin-top: 106px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 15px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 10px;
+}.u-section-3 {
+  background-image: url("images/3053366.png");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 592px;
+}
+
+.u-section-3 .u-text-1 {
+  animation-duration: 1000ms;
+  margin: 44px auto 0;
+}
+
+.u-section-3 .u-custom-html-1 {
+  min-height: 460px;
+  height: auto;
+  margin: 16px 322px 44px 447px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-custom-html-1 {
+    margin-left: 347px;
+    margin-right: 222px;
+    width: 570px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-custom-html-1 {
+    margin-left: 237px;
+    margin-right: 112px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-custom-html-1 {
+    margin-left: 147px;
+    margin-right: 22px;
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-custom-html-1 {
+    margin-left: 0;
+    margin-right: 0;
+    width: 340px;
+  }
+}
